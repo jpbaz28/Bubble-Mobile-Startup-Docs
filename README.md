@@ -2,10 +2,10 @@
 
 ## A React Native Mobile Application
 
-### Github Repo
+## Github Repo
 - [Link to the mobile front end for Bubble App](https://github.com/revature-bubble-mobile/Mobile)
 
-### Installations
+## Installations
 1. Install Node Package Manager to your local machine
     ```
     npm install -g npm
@@ -15,17 +15,17 @@
     npm install -g expo-cli
     ```
 3. Install Expo on mobile device from Google PlayStore on Android, or Apple AppStore on iOS (iOS version is named Expo Go)
-    #### ***Optional if you don't want to use an emulator***
+    ### ***Required if you don't want to use the emulator installation below***
     #### Google Playstore Version:
     ![Google Playstore](screenshots\expo_playstore1.png)
     #### Apple AppStore Version:
     ![Apple Appstore](screenshots\expogo_appstore1.png)
 
 4. Install Android Studio on Local Machine
-    #### ***Optional if you don't want to use Expo Mobile App***
+    ### ***Required if you don't want to use Expo Mobile App installation above***
     - [Download Android Studio](https://developer.android.com/studio) from this link
     - Run the downloaded file and follow installation instructions
-### Steps
+## Steps
 
 1. Clone repo from link above onto your local machine
     ```
@@ -38,7 +38,7 @@
     expo start
     ```
 
-### How to use Expo CLI with Expo Mobile App (**Mobile and Local machine on same network**)
+## How to use Expo CLI with Expo Mobile App (**Mobile Device and Local machine on same network**)
 1. Open a terminal in either VScode or from the project directory
 2. Start the app with either command:
     ```
@@ -58,7 +58,7 @@
 
 5. Your camera will open. Scan the QR code in the terminal and wait for the bundling to complete, and the app should open on your mobile device!
 
-### How to use Expo CLI with Expo Mobile App (**Mobile and Local machine on different networks**)
+## How to use Expo CLI with Expo Mobile App (**Mobile Device and Local machine on different networks**)
 1. Open a terminal in either VScode or from the project directory
 2. Start the app with either command:
     ```
@@ -88,7 +88,7 @@
 9. Scan the QR Code in the dev tools window with the Expo Mobile App and the application should open on the mobile device.
     - *This QR code can be scanned by others through a screenshare as well, as the connection is now public through ngrok*
 
-### How to use Expo CLI with Android Studio Emulator
+## How to use Expo CLI with Android Studio Emulator
 1. Open a terminal in either VScode or from the project directory
 2. Start the app with either command:
     ```
