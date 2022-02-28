@@ -25,18 +25,6 @@
     ### ***Required if you don't want to use Expo Mobile App installation above***
     - [Download Android Studio](https://developer.android.com/studio) from this link
     - Run the downloaded file and follow installation instructions
-## Steps
-
-1. Clone repo from link above onto your local machine
-    ```
-    git clone https://github.com/revature-bubble-mobile/Mobile
-    ```
-2. Open the folder you cloned in VSCode
-3. Run the following commands in a terminal from the project directory
-    ```
-    npm install
-    expo start
-    ```
 
 ## How to use Expo CLI with Expo Mobile App (**Mobile Device and Local machine on same network**)
 1. Open a terminal in either VScode or from the project directory
